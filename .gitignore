@@ -35,4 +35,42 @@
 *.out
 *.app
 
+# Debug/build artifacts
+*.ilk
+*.idb
+*.pdb
+*.ipdb
+*.iobj
+*.tlog
+*.lastbuildstate
+
+# Build directories
+build/
+build*/
+build_tmp/
+cmake-build-*/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+build.ninja
+Testing/
+
+# IDE/project-local settings
+.idea/
+.vscode/
+.vs/
+
+# Local reference material and imported projects
+external/
+resources/
+tools/
+
+# Temporary diagnostics
+tmp_*.txt
+*.tmp
+*.csv~
+SNDLIB_instances/yuan_small.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/c++
