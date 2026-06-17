@@ -35,4 +35,21 @@
 *.out
 *.app
 
-# End of https://www.toptal.com/developers/gitignore/api/c++
+### CMake ###
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+build/
+
+### Editors / IDEs ###
+.vscode/
+.idea/
+*.user
+*.iml
+
+### Project-generated output ###
+taboosearch/
+*.log
