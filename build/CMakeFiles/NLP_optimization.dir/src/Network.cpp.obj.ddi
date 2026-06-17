@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\NLP_optimization.dir\\src\\Network.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

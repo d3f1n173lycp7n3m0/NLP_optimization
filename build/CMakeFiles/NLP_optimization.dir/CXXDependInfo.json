@@ -1,0 +1,42 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization/build",
+	"dir-cur-src" : "C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization",
+	"dir-top-bld" : "C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization/build",
+	"dir-top-src" : "C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization/build/CMakeFiles/NLP_optimization.dir",
+	"sources" : 
+	{
+		"CMakeFiles/NLP_optimization.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization/main.cpp"
+		},
+		"CMakeFiles/NLP_optimization.dir/src/Network.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization/src/Network.cpp"
+		},
+		"CMakeFiles/NLP_optimization.dir/src/SNDLIBParser.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization/src/SNDLIBParser.cpp"
+		},
+		"CMakeFiles/NLP_optimization.dir/src/TabuSearch.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization/src/TabuSearch.cpp"
+		}
+	}
+}

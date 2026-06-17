@@ -1,0 +1,27 @@
+# ninja log v7
+41	278	8033949998326402	CMakeFiles/NLP_optimization.dir/main.cpp.obj.ddi	b3f7775b16484772
+55	286	8033949998461172	CMakeFiles/NLP_optimization.dir/src/SNDLIBParser.cpp.obj.ddi	2cee67f834cd53f5
+49	307	8033949998381668	CMakeFiles/NLP_optimization.dir/src/Network.cpp.obj.ddi	8eb0768d673cb5c
+61	396	8033949998553963	CMakeFiles/NLP_optimization.dir/src/TabuSearch.cpp.obj.ddi	f0ba3be417476f6d
+396	499	8033950002718816	CMakeFiles/NLP_optimization.dir/CXX.dd	a0071729ae9e66f5
+396	499	8033950002718816	CMakeFiles/NLP_optimization.dir/CXXModules.json	a0071729ae9e66f5
+396	499	8033950002718816	CMakeFiles/NLP_optimization.dir/main.cpp.obj.modmap	a0071729ae9e66f5
+396	499	8033950002718816	CMakeFiles/NLP_optimization.dir/src/Network.cpp.obj.modmap	a0071729ae9e66f5
+396	499	8033950002718816	CMakeFiles/NLP_optimization.dir/src/SNDLIBParser.cpp.obj.modmap	a0071729ae9e66f5
+396	499	8033950002718816	CMakeFiles/NLP_optimization.dir/src/TabuSearch.cpp.obj.modmap	a0071729ae9e66f5
+503	1331	8033950002880388	CMakeFiles/NLP_optimization.dir/main.cpp.obj	16b4f14bc8a627c5
+514	1682	8033950003077946	CMakeFiles/NLP_optimization.dir/src/SNDLIBParser.cpp.obj	43a7b0764ebbcfd5
+508	1884	8033950003029814	CMakeFiles/NLP_optimization.dir/src/Network.cpp.obj	a5953317a41a6741
+519	2264	8033950003110116	CMakeFiles/NLP_optimization.dir/src/TabuSearch.cpp.obj	adc34ab4eefe204d
+2264	2410	8033950020543033	NLP_optimization.exe	5292925fe3dea277
+6	289	8033952539725360	build.ninja	9dc3a93db1c787fb
+6	289	8033952539725360	C:/Users/cpt_n3m0/Desktop/jezaczek zwierzaczek/mozeszgownorobic/Jerry/NLP_optimization/build/cmake_install.cmake	9dc3a93db1c787fb
+24	245	8033952540393499	CMakeFiles/NLP_optimization.dir/src/TabuSearch.cpp.obj.ddi	f0ba3be417476f6d
+246	302	8033952542725503	CMakeFiles/NLP_optimization.dir/CXX.dd	a0071729ae9e66f5
+246	302	8033952542725503	CMakeFiles/NLP_optimization.dir/CXXModules.json	a0071729ae9e66f5
+246	302	8033952542725503	CMakeFiles/NLP_optimization.dir/main.cpp.obj.modmap	a0071729ae9e66f5
+246	302	8033952542725503	CMakeFiles/NLP_optimization.dir/src/Network.cpp.obj.modmap	a0071729ae9e66f5
+246	302	8033952542725503	CMakeFiles/NLP_optimization.dir/src/SNDLIBParser.cpp.obj.modmap	a0071729ae9e66f5
+246	302	8033952542725503	CMakeFiles/NLP_optimization.dir/src/TabuSearch.cpp.obj.modmap	a0071729ae9e66f5
+305	1496	8033952543291744	CMakeFiles/NLP_optimization.dir/src/TabuSearch.cpp.obj	adc34ab4eefe204d
+1497	1723	8033952555230582	NLP_optimization.exe	5292925fe3dea277

@@ -7,4 +7,6 @@ add_executable(NLP_optimization main.cpp
         src/Network.cpp
         include/Network.h
         src/SNDLIBParser.cpp
-        include/SNDLIBParser.h)
+        include/SNDLIBParser.h
+        src/TabuSearch.cpp
+        include/TabuSearch.h)

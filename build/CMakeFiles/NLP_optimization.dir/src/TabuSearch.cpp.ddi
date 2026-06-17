@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/NLP_optimization.dir/src/TabuSearch.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
